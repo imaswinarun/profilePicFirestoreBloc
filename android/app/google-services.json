@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309326080545",
+    "project_id": "notionpress-2589b",
+    "storage_bucket": "notionpress-2589b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309326080545:android:bdc1126947d23e3b0d1160",
+        "android_client_info": {
+          "package_name": "com.example.profilePiCTask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309326080545-qmhg6j2mq622visqtvva4d2m1e83eea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe7e9uJHVzlCcLU9pJamrf-rbVdlSToS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309326080545-qmhg6j2mq622visqtvva4d2m1e83eea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
